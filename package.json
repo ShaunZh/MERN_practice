@@ -1,0 +1,18 @@
+{
+  "name": "mern_practice",
+  "version": "1.0.0",
+  "description": "MERN practice project ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
